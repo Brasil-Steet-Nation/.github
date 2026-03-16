@@ -1,12 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+## Brasil Steet Nation
 
-**Here are some ideas to get you started:**
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DWu49KTaTB)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*Projeto de SA-MP (San Andreas Multiplayer) escrito em [Pawn](https://pt.wikipedia.org/wiki/Pawn)*
+
+## User Control Panel
+Em breve..
+
+
+</div>
